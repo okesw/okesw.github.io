@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://okesw.github.io/yZD/sitemap.yZD.gz
